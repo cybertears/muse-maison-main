@@ -745,7 +745,7 @@ function Footer() {
             &copy; {new Date().getFullYear()} Muse Maison. All rights reserved.
           </div>
           <div className="text-xs text-neutral-500 font-mono tracking-wider mt-4 md:mt-0 flex items-center">
-            MADE WITH <Heart className="h-3 w-3 text-[#FF0000] mx-1" /> IN NEW YORK
+            MADE WITH <Heart className="h-3 w-3 text-[#FF0000] mx-1" /> IN CHICAGO
           </div>
         </div>
       </div>
